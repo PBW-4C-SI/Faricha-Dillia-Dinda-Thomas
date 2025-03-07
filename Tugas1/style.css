@@ -1,0 +1,35 @@
+/* Universal Selector */
+* { 
+    text-align: left;
+    background-color: white;
+}
+
+/* Element Selector */
+h1 {
+    margin-bottom: 40px;
+}
+
+
+/* Group Selector */
+h1, h3 {
+    font-weight: bold;
+}
+
+/* Class Selector */
+.MSI {
+    color: blue;
+    font-family: arial;
+}
+
+/* ID Selector */
+#nama {
+    font-size: 40px;
+    color: red;
+}
+
+/* ID Selector */
+#quote {
+    font-style: italic;
+    margin-left: 5px;
+}
+
